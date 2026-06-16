@@ -1,0 +1,10 @@
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+websockets==12.0
+python-dotenv==1.0.1
+numpy==1.26.4
+pandas==2.2.2
+httpx==0.27.0
+aiohttp==3.9.5
+pydantic==2.7.1
+binaryoptionstoolsv2 @ https://github.com/ChipaDevTeam/BinaryOptionsTools-v2/releases/download/v0.2.9/binaryoptionstoolsv2-0.2.9-cp39-abi3-manylinux_2_28_x86_64.whl
